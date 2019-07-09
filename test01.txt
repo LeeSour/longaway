@@ -1,2 +1,3 @@
 this is the first file in the master,
 this is the first file in the localGit,
+fix the first time,append a GPL.
