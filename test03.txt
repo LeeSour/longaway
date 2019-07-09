@@ -1,0 +1,2 @@
+this is the thrid file in the Git.
+i want to say:'hello world'.
